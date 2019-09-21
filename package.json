@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuz",
+  "version": "1.0.0",
+  "description": "Fizzbuzz practices #WU2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanashiXI/fizzbuz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanashiXI/fizzbuz/issues"
+  },
+  "homepage": "https://github.com/KanashiXI/fizzbuz#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
